@@ -1,0 +1,11 @@
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\bin\Debug\netcoreapp2.1\dreamteam.deps.json
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\bin\Debug\netcoreapp2.1\dreamteam.runtimeconfig.json
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\bin\Debug\netcoreapp2.1\dreamteam.runtimeconfig.dev.json
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\bin\Debug\netcoreapp2.1\dreamteam.dll
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\bin\Debug\netcoreapp2.1\dreamteam.pdb
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\obj\Debug\netcoreapp2.1\dreamteam.csprojAssemblyReference.cache
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\obj\Debug\netcoreapp2.1\dreamteam.csproj.CoreCompileInputs.cache
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\obj\Debug\netcoreapp2.1\dreamteam.AssemblyInfoInputs.cache
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\obj\Debug\netcoreapp2.1\dreamteam.AssemblyInfo.cs
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\obj\Debug\netcoreapp2.1\dreamteam.dll
+C:\Users\Robert\workspace\csharp\excercises\dreamteam\obj\Debug\netcoreapp2.1\dreamteam.pdb
